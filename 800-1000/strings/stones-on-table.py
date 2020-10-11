@@ -6,4 +6,4 @@ def main():
         if s[i] == s[i+1]:
             count += 1
     return count
-print(main()) 
+print(main())
